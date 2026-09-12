@@ -138,20 +138,6 @@ mini-steam/
     └── SUSTENTACION.md     Guion de 12 min + banco de preguntas
 ```
 
----
-
-## Cómo se cubre la rúbrica (350 pts)
-
-| Dimensión | Dónde está |
-|---|---|
-| 1 · Diagnóstico del código antes (60) | `docs/DIAGNOSTICO.md`: 8 problemas con archivo:línea, cada uno con su *code smell* y la violación SOLID concreta |
-| 2 · Aplicación de los 5 patrones (100) | `despues/`: un archivo por patrón, con los roles GoF nombrados en el encabezado y sin if/elif residual |
-| 3 · Justificación de cada patrón (50) | `docs/PATRONES.md`: para cada patrón, la alternativa razonable descartada y por qué |
-| 4 · Calidad del código refactorizado (60) | 42 pruebas, `demo.py` reproducible, y una prueba de regresión del defecto del IVA |
-| 5 · Sustentación oral (80) | `docs/SUSTENTACION.md`: guion de 12 min y ~20 preguntas improvisadas con respuesta |
-
----
-
 ## Limitaciones conocidas
 
 Simplificaciones deliberadas de un proyecto didáctico:
