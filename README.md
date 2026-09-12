@@ -6,10 +6,7 @@ versiones: una deficiente y su refactorización con **5 patrones GoF**.
 
 **Stack:** Python · FastAPI · SQLite · pytest
 
-> Las dos versiones usan objetos y exponen los mismos 8 endpoints. La diferencia
-> no es "con clases" contra "sin clases": es que la versión antes tiene una clase
-> Dios con if/elif y la de después tiene responsabilidades separadas y puntos de
-> extensión.
+
 
 ---
 
